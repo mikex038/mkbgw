@@ -99,7 +99,8 @@ section.Digitaal-magazine-MKBGW-02 {
 }
 
 .vidInfo{
-	font-size: 26px;
+	font-size: 26px; 
+	font-size: 1.7vw;
 }
 
 #textTwo{
@@ -136,4 +137,12 @@ section.Digitaal-magazine-MKBGW-02 {
 	margin-top: 71.1%;
 	margin-left: 0%;
 	width: 68.8%;
+}
+
+.tips{
+	position: absolute;
+	font-size: 40px;
+	top: 85%;
+	color: white;
+	left: 35%;
 }
