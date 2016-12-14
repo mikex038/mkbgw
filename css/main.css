@@ -1,0 +1,74 @@
+body{
+	margin: 0px;
+	background-color: #FFFFFF;
+	overflow-x: hidden;
+}
+
+.DINcondensed { /*DIN-condensed font */ }
+
+.frame{
+	max-width: 964px;
+	margin: 0 auto;
+}
+
+.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+	z-index: 10;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+#frameTwo{ top: 421px; }
+#frameThree{ top: 416px }
+#frameFive{ top: 420px }
+#frameSix{ top: 356px }
+#frameEight{ top: 420px }
+#frameNine{ top: 356px }
+#frameEleven{ top: 420px; }
+
+#textOne{
+	position: absolute;
+	top: 500px;
+}
+
+section.Digitaal-magazine-MKBGW-01 {
+	position:relative;
+	background-color: white;
+	width:100%;
+	height:749px;
+}
+
+.text{
+	text-align: center;
+	height: 500px;
+	width: 500px;
+	color: black;
+	left: 50%;
+	margin: -350px 0 0 -250px;
+	letter-spacing: 1px;
+}
+
+#intro{
+	font-size: 50px;
+	font-weight: normal;
+	letter-spacing: 6px;
+}
+
+p{
+	font-family: Arial;
+}
+
+#textOne{
+	position: absolute;
+	top: 500px;
+}
