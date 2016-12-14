@@ -6,6 +6,10 @@ body{
 
 .DINcondensed { /*DIN-condensed font */ }
 
+p{
+	font-family: Arial;
+}
+
 .frame{
 	max-width: 964px;
 	margin: 0 auto;
@@ -64,11 +68,57 @@ section.Digitaal-magazine-MKBGW-01 {
 	letter-spacing: 6px;
 }
 
-p{
-	font-family: Arial;
-}
-
 #textOne{
 	position: absolute;
 	top: 500px;
+}
+
+section.Digitaal-magazine-MKBGW-02 {
+	position:relative;
+	background-color: #F28D01;
+	background-size: cover;
+	width:100%;
+	height:1964px;
+}
+
+.vidText{
+	left: 800px;
+	letter-spacing: 5px;
+	font-size: 40px;
+}
+
+#studentVidOne{
+	color: white;
+	top: 7.8%;
+	position: absolute;
+	left: 21%;
+}
+
+#hex1{
+	position: absolute;
+	height: auto;
+	width: 26%;
+	margin-left: -6.4%;
+	margin-top: 50%;
+}
+
+#hex2{
+	position: absolute;
+	height: auto;
+	width: 55%;
+	margin-left: 79%;
+	margin-top: 6.3%;
+}
+
+#stripe1 {
+	position: absolute;
+	top: 10%;
+	left: 18%;
+}
+
+#stripe2 {
+	position: absolute;
+	margin-top: 61.1%;
+	margin-left: 0%;
+	width: 68.8%;
 }
