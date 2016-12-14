@@ -1,0 +1,251 @@
+body{
+	margin: 0px;
+	background-color: #FFFFFF;
+	overflow-x: hidden;
+}
+
+.DINcondensed { /*DIN-condensed font */ }
+
+.frame{
+	max-width: 964px;
+	margin: 0 auto;
+}
+
+.video-container {
+	position:relative;
+	padding-bottom:56.25%;
+	padding-top:30px;
+	height:0;
+	overflow:hidden;
+	z-index: 10;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+	position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+#frameTwo{ top: 421px; }
+#frameThree{ top: 416px }
+#frameFive{ top: 420px }
+#frameSix{ top: 356px }
+#frameEight{ top: 420px }
+#frameNine{ top: 356px }
+#frameEleven{ top: 420px; }
+
+#textOne{
+	position: absolute;
+	top: 500px;
+}
+
+section.Digitaal-magazine-MKBGW-01 {
+	position:relative;
+	background-color: white;
+	width:100%;
+	height:749px;
+}
+
+.text{
+	text-align: center;
+	height: 500px;
+	width: 500px;
+	color: black;
+	left: 50%;
+	margin: -350px 0 0 -250px;
+	letter-spacing: 1px;
+}
+
+#intro{
+	font-size: 50px;
+	font-weight: normal;
+	letter-spacing: 6px;
+}
+
+p{
+	font-family: Arial;
+}
+
+#textOne{
+	position: absolute;
+	top: 500px;
+}
+
+.vidText{
+	left: 800px;
+	letter-spacing: 5px;
+	font-size: 40px;
+}
+
+#studentVidOne{
+	color: white;
+	top: 248px;
+	position: absolute;
+	left: 50.3%;
+	margin-left: -470px;
+}
+
+#studentVidTwo{
+	color: black;
+	top: 248px;
+	position: absolute;
+	left: 50.3%;
+	margin-left: -470px;
+}
+
+#test{
+	position: absolute;
+	height: auto;
+	width: 26%;
+	margin-left: -6.4%;
+	margin-top: 45.1%;
+}
+
+#test2{
+	position: absolute;
+	height: auto;
+	width: 55%;
+	margin-left: 79%;
+	margin-top: 6.3%;
+}
+
+#stripe1 {
+	position: absolute;
+	margin-top: 11.5%;
+	margin-left: 31%
+}
+
+#stripe2 {
+	position: absolute;
+	margin-top: 56.2%;
+	margin-left: 0%;
+	width: 68.8%;
+}
+
+section.Digitaal-magazine-MKBGW-02 {
+	position:relative;
+	background-color: #F28D01;
+	background-size: 2560px;
+	width:100%;
+	height:1964px;
+}
+
+section.Digitaal-magazine-MKBGW-03 {
+	position:relative;
+	/*background: url("../images/Digitaal-magazine-MKBGW_03.jpg") top center no-repeat;*/
+	background-color: white;
+	background-size: 2560px;
+	width:100%;
+	height:1760px;
+}
+
+#test3{
+	position: absolute;
+	height: auto;
+	width: 50%;
+	margin-left: -29%;
+	margin-top: 30%;
+}
+
+#test4{
+	position: absolute;
+	height: auto;
+	width: 26%;
+	margin-left: 85%;
+	margin-top: 16%;
+}
+
+#stripe3{
+	position: absolute;
+	margin-top: 11.5%;
+	margin-left: 31%
+}
+
+#stripe4 {
+	position: absolute;
+	margin-top: 51.6%;
+	margin-left: 30.5%;
+	width: 70%;
+}
+
+section.Digitaal-magazine-MKBGW-04 {
+	position:relative;
+	background: url("../images/Digitaal-magazine-MKBGW_04.jpg") top center no-repeat;
+	background-size: contain;
+	height: 1376px;
+}
+
+section.Digitaal-magazine-MKBGW-05 {
+	position:relative;
+	/*background: url("../images/Digitaal-magazine-MKBGW_05.jpg") top center no-repeat;*/
+	background-color: #23B3A9;
+	background-size: 2560px;
+	width:100%;
+	height:1964px;
+}
+
+#test5{
+	position: absolute;
+	height: auto;
+	width: 50%;
+	margin-left: 69%;
+	margin-top: -10%;
+}
+
+section.Digitaal-magazine-MKBGW-06 {
+	position:relative;
+	/*background: url("../images/Digitaal-magazine-MKBGW_03.jpg") top center no-repeat;*/
+	background-color: white;
+	background-size: 2560px;
+	width:100%;
+	height:1760px;
+}
+
+section.Digitaal-magazine-MKBGW-07 {
+	position:relative;
+	background: url("../images/Digitaal-magazine-MKBGW_07.jpg") top center no-repeat;
+	background-size: contain;
+	height:1186px;
+}
+
+section.Digitaal-magazine-MKBGW-08 {
+	position:relative;
+	/*background: url("../images/Digitaal-magazine-MKBGW_08.jpg") top center no-repeat;*/
+	background-color: #F28D01;
+	background-size: 2560px;
+	width:100%;
+	height:1964px;
+}
+
+section.Digitaal-magazine-MKBGW-09 {
+	position:relative;
+	/*background: url("../images/Digitaal-magazine-MKBGW_09.jpg") top center no-repeat;*/
+	background-color: white;
+	background-size: 2560px;
+	width:100%;
+	height:1760px;
+}
+#stripe5 {
+		position: absolute;
+		margin-top: 11.5%;
+		margin-left: 31%
+	}
+
+
+section.Digitaal-magazine-MKBGW-10 {
+	position:relative;
+	background: url("../images/Digitaal-magazine-MKBGW_10.jpg") top center no-repeat;
+	background-size: contain;
+	height:1078px;
+}
+
+section.Digitaal-magazine-MKBGW-11 {
+	position:relative;
+	/*background: url("../images/Digitaal-magazine-MKBGW_11.jpg") top center no-repeat;*/
+	background-color: #23B3A9;
+	background-size: 2560px;
+	width:100%;
+	height:1964px;
+}
