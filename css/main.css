@@ -139,10 +139,54 @@ section.Digitaal-magazine-MKBGW-02 {
 	width: 68.8%;
 }
 
-.tips{
+.tip1{
 	position: absolute;
+	width: 8%;
 	font-size: 40px;
 	top: 85%;
 	color: white;
-	left: 35%;
+	left: 33%;
+}
+
+.tip1text{
+	font-size: 16px;
+}
+
+.tip2{
+	position: absolute;
+	width: 8%;
+	font-size: 40px;
+	top: 85%;
+	color: white;
+	left: 42%;
+}
+
+.tip2text{
+	font-size: 16px;
+}
+
+.tip3{
+	position: absolute;
+	width: 8%;
+	font-size: 40px;
+	top: 85%;
+	color: white;
+	left: 51%;
+}
+
+.tip3text{
+	font-size: 16px;
+}
+
+.tip4{
+	position: absolute;
+	width: 8%;
+	font-size: 40px;
+	top: 85%;
+	color: white;
+	left: 60%;
+}
+
+.tip4text{
+	font-size: 16px;
 }
