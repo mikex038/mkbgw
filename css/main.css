@@ -110,15 +110,15 @@ section.Digitaal-magazine-MKBGW-02 {
 	left: 22.4%;
 }
 
-#hex1{
+#hex2{
 	position: absolute;
 	height: auto;
 	width: 26%;
 	margin-left: -6.4%;
-	margin-top: 60%;
+	margin-top: 47%;
 }
 
-#hex2{
+#hex1{
 	position: absolute;
 	height: auto;
 	width: 55%;
@@ -134,16 +134,17 @@ section.Digitaal-magazine-MKBGW-02 {
 
 #stripe2 {
 	position: absolute;
-	margin-top: 71.1%;
+	margin-top: 58.1%;
 	margin-left: 0%;
 	width: 68.8%;
+	z-index: 2;
 }
 
 .tip1{
 	position: absolute;
 	width: 8%;
 	font-size: 40px;
-	top: 85%;
+	top: 75%;
 	color: white;
 	left: 33%;
 }
@@ -156,7 +157,7 @@ section.Digitaal-magazine-MKBGW-02 {
 	position: absolute;
 	width: 8%;
 	font-size: 40px;
-	top: 85%;
+	top: 75%;
 	color: white;
 	left: 42%;
 }
@@ -169,7 +170,7 @@ section.Digitaal-magazine-MKBGW-02 {
 	position: absolute;
 	width: 8%;
 	font-size: 40px;
-	top: 85%;
+	top: 75%;
 	color: white;
 	left: 51%;
 }
@@ -182,7 +183,7 @@ section.Digitaal-magazine-MKBGW-02 {
 	position: absolute;
 	width: 8%;
 	font-size: 40px;
-	top: 85%;
+	top: 75%;
 	color: white;
 	left: 60%;
 }
