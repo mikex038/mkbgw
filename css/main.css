@@ -78,6 +78,8 @@ section.Digitaal-magazine-MKBGW-01 {
 	top: 500px;
 }
 
+/* Probleemsectie */
+
 section.Digitaal-magazine-MKBGW-02 {
 	position:relative;
 	background-color: #F28D01;
@@ -102,7 +104,7 @@ section.Digitaal-magazine-MKBGW-02 {
 #textTwo{
 	position: relative;
 	color: white;
-	top: 24%;
+	top: 25%;
 	left: 28%;
 	width: 44%;
 	font-size: 28px;
@@ -117,12 +119,14 @@ section.Digitaal-magazine-MKBGW-02 {
 	margin-top: -25%;
 }
 
+/* Hier begint het fout te lopen :c */
+
 #hex2{
 	position: absolute;
 	height: auto;
 	width: 19%;
 	margin-left: -6.4%;
-	bottom: 2% ;
+	bottom: 4.5%;
 }
 
 #stripe1 {
@@ -186,7 +190,7 @@ section.Digitaal-magazine-MKBGW-02 {
 	width: 8%;
 	height: 10%;
 	font-size: 40px;
-	bottom: 10%;
+	bottom: 10.5%;
 	color: white;
 	left: 60%;
 }
