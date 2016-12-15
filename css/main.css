@@ -106,16 +106,8 @@ section.Digitaal-magazine-MKBGW-02 {
 #textTwo{
 	position: relative;
 	color: white;
-	top: 25%;
+	top: 21%;
 	left: 22.4%;
-}
-
-#hex2{
-	position: absolute;
-	height: auto;
-	width: 26%;
-	margin-left: -6.4%;
-	margin-top: 47%;
 }
 
 #hex1{
@@ -123,7 +115,15 @@ section.Digitaal-magazine-MKBGW-02 {
 	height: auto;
 	width: 55%;
 	margin-left: 79%;
-	margin-top: 6.3%;
+	margin-top: -25%;
+}
+
+#hex2{
+	position: absolute;
+	height: auto;
+	width: 26%;
+	margin-left: -6.4%;
+	margin-top: 22%;
 }
 
 #stripe1 {
@@ -134,7 +134,7 @@ section.Digitaal-magazine-MKBGW-02 {
 
 #stripe2 {
 	position: absolute;
-	margin-top: 58.1%;
+	margin-top: 33.1%;
 	margin-left: 0%;
 	width: 68.8%;
 	z-index: 2;
