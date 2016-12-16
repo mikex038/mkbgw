@@ -84,6 +84,7 @@ section.Digitaal-magazine-MKBGW-02 {
 	position: absolute;
 	margin-left: 28.15%;
 	margin-top: 1%;
+	size: 1.6vw;
 }
 
 #studentVidOne{
@@ -92,8 +93,7 @@ section.Digitaal-magazine-MKBGW-02 {
 	position: absolute;
 	color: white;
 	left: 29.15%;
-	font-size: 36px;
-	margin-top: 1%;
+	font-size: 1.6vw;
 }
 
 #textTwo{
@@ -101,6 +101,5 @@ section.Digitaal-magazine-MKBGW-02 {
 	margin-top: 17%;
 	left: 28.15%;
 	color: white;
-	font-size: 28px;
-	font-size: 1.35vw;
+	font-size: 1.4vw;
 }
