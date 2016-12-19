@@ -41,3 +41,18 @@ p{
 }
 
 #frameTwo{ margin-top: 27%; }
+
+.borderleft{
+	padding-left: 5px;
+	border-left: solid white 5px;
+}
+
+.borderleft2{
+	padding-left: 5px;
+	border-left: solid #F28D01 5px;
+}
+
+.borderleft3{
+	padding-left: 5px;
+	border-left: solid #23B3A9 5px;
+}
