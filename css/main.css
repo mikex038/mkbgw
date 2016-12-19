@@ -1,6 +1,7 @@
 body{
 	margin: 0px;
 	background-color: gray;
+	overflow-x: hidden;
 }
 
 section{
@@ -41,6 +42,7 @@ p{
 
 #frameTwo{ margin-top: 27%; }
 
+/*Sectie 1*/
 section.Digitaal-magazine-MKBGW-01 {
 	position:relative;
 	background-color: white;
@@ -66,11 +68,13 @@ section.Digitaal-magazine-MKBGW-01 {
 	letter-spacing: 1px;
 }
 
+/*sectie 2*/
+
 section.Digitaal-magazine-MKBGW-02 {
 	position:relative;
 	background-color: #F28D01;
 	width:100%;
-	height:auto;
+	height:1500px;
 	overflow: hidden;
 }
 
@@ -121,14 +125,14 @@ section.Digitaal-magazine-MKBGW-02 {
 	margin-top: -4.15%;
 }
 
-#stripe2 {
-	float: left;
-	position: absolute;
-	margin-top: 4%;
-	margin-left: -32%;
-	width: 68.8%;
-	z-index: 2;
-}
+#stripe1 {
+		float: left;
+		position: absolute;
+		margin-top: 4%;
+		margin-left: -32%;
+		width: 68.8%;
+		z-index: 2;
+	}
 
 .tip1{
 	position: relative;
@@ -138,6 +142,7 @@ section.Digitaal-magazine-MKBGW-02 {
 	font-size: 40px;
 	color: white;
 	left: 29.5%;
+
 }
 
 .tip1text{
@@ -186,3 +191,101 @@ section.Digitaal-magazine-MKBGW-02 {
 	font-size: 16px;
 }
 
+/*sectie 3*/
+section.Digitaal-magazine-MKBGW-03 {
+	position:relative;
+	background-color: white;
+	width:100%;
+	height:1500px;
+	overflow: hidden;
+}
+
+#studentVidTwo{
+	margin-top: 6.81%;
+	width: 200px;
+	position: absolute;
+	color: black;
+	left: 28.15%;
+	font-size: 1.8vw;
+}
+
+.borderleft2{
+	padding-left: 5px;
+	border-left: solid #F28D01 5px;
+}
+
+#hex3 {
+	position: absolute;
+	height: auto;
+	width: 19%;
+	margin-left: 88%;
+	margin-top: 17.5%;
+}
+
+#hex4{
+	position: absolute;
+	width: 35%;
+	height: auto;
+	margin-left: -46%;
+	margin-top: -11%;
+}
+
+
+#textThree{
+	position: relative;
+	margin-top: 1%;
+	left: 28.15%;
+	color: black;
+	font-size: 1.3vw;
+	width: 44%;
+}
+
+#stripe2 {
+	float: left;
+	position: absolute;
+	margin-top: 4%;
+	margin-left: -3.5%;
+	width: 78.8%;
+	z-index: 2;
+}
+
+.tip5{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 40px;
+	color: black;
+	left: 29.5%;
+
+}
+
+.tip6{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 40px;
+	color: black;
+	left: 32.5%;
+}
+
+.tip7{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 40px;
+	color: black;
+	left: 35.5%;
+}
+
+.tip8{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 40px;
+	color: black;
+	left: 38.5%;
+}
