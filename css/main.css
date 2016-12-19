@@ -71,9 +71,10 @@ section.Digitaal-magazine-MKBGW-01 {
 section.Digitaal-magazine-MKBGW-02 {
 	position:relative;
 	background-color: #F28D01;
+	height: auto;
 	width:100%;
-	height:130%;
 	overflow: hidden;
+	padding-bottom: 20%;
 }
 
 #hex1{
@@ -195,8 +196,9 @@ section.Digitaal-magazine-MKBGW-03 {
 	position:relative;
 	background-color: white;
 	width:100%;
-	height:130%;
+	height:auto;
 	overflow: hidden;
+	padding-bottom: 20%;
 }
 
 #studentVidTwo{
@@ -300,7 +302,8 @@ section.Digitaal-magazine-MKBGW-05 {
 	position:relative;
 	background-color: #23B3A9;
 	width:100%;
-	height:130%;
+	height:auto;
+	padding-bottom: 20%;
 	overflow: hidden;
 }
 
