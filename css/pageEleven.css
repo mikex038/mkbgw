@@ -1,0 +1,26 @@
+section.Digitaal-magazine-MKBGW-11 {
+	position:relative;
+	background-color: #23B3A9;
+	width:100%;
+	height:auto;
+	padding-bottom: 20%;
+	overflow: hidden;
+}
+
+#hex5{
+	position: absolute;
+	width: 40%;
+	height: auto;
+	margin-left: 80%;
+	margin-top: 3%;
+	opacity: 0.1;
+}
+
+#hex6{
+	position: absolute;
+	height: auto;
+	width: 19%;
+	margin-left: -40%;
+	margin-top: -4.15%;
+	opacity: 0.1;
+}

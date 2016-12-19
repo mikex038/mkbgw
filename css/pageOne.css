@@ -1,0 +1,24 @@
+section.Digitaal-magazine-MKBGW-01 {
+	position:relative;
+	background-color: white;
+	width:100%;
+	height:500px;
+}
+
+#intro{
+	position: relative;
+	font-size: 50px;
+	font-weight: normal;
+	letter-spacing: 6px;
+}
+
+.text{
+	position: absolute;
+	text-align: center;
+	height: 500px;
+	width: 500px;
+	color: black;
+	left: 50%;
+	margin: 0 0 0 -250px;
+	letter-spacing: 1px;
+}
