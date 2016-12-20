@@ -8,11 +8,11 @@ section{
 	overflow-x: hidden;
 }
 
-.DINcondensed { /*DIN-condensed font */ }
-
 p{
 	font-family: Arial;
 }
+
+.DINcondensed { /*DIN-condensed font */ }
 
 .frame{
 	width: 50%;
@@ -55,4 +55,196 @@ p{
 .borderleft3{
 	padding-left: 5px;
 	border-left: solid #23B3A9 5px;
+}
+
+.stripe1 {
+	float: left;
+	position: absolute;
+	margin-top: 4%;
+	margin-left: -32%;
+	width: 71.8%;
+	z-index: 2;
+}
+
+.stripe2 {
+	float: left;
+	position: absolute;
+	margin-top: 4%;
+	margin-left: -3.9%;
+	width: 78.8%;
+	z-index: 2;
+}
+
+.tip1{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 1.6vw;
+	color: white;
+	left: 29.5%;
+
+}
+
+.tip1text{
+	font-size: 1vw;
+}
+
+.tip2{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 1.6vw;
+	color: white;
+	left: 32.5%;
+}
+
+.tip2text{
+	font-size: 1vw;
+}
+
+.tip3{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 1.6vw;
+	color: white;
+	left: 35.5%;
+}
+
+.tip3text{
+	font-size: 1vw;
+}
+
+.tip4{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 1.6vw;
+	color: white;
+	left: 38.5%;
+}
+
+.tip4text{
+	font-size: 1vw;
+}
+
+.tip5{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 1.6vw;
+	color: black;
+	left: 29.5%;
+}
+
+.tip6{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 1.6vw;
+	color: black;
+	left: 32.5%;
+}
+
+.tip7{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 1.6vw;
+	color: black;
+	left: 35.5%;
+}
+
+.tip8{
+	position: relative;
+	float: left;
+	width: 8%;
+	height: 10%;
+	font-size: 1.6vw;
+	color: black;
+	left: 38.5%;
+}
+
+.hex1{
+	position: absolute;
+	width: 40%;
+	height: auto;
+	margin-left: 80%;
+	margin-top: 3%;
+	opacity: 0.1;
+}
+
+.hex2{
+	position: absolute;
+	height: auto;
+	width: 19%;
+	margin-left: -40%;
+	margin-top: -4.15%;
+	opacity: 0.1;
+}
+
+.hex3 {
+	position: absolute;
+	height: auto;
+	width: 19%;
+	margin-left: 88%;
+	margin-top: 17.5%;
+}
+
+.hex4{
+	position: absolute;
+	width: 35%;
+	height: auto;
+	margin-left: -46%;
+	margin-top: -11%;
+}
+
+#view {
+	position: absolute;
+	background-color: pink;
+	margin-left: 28.15%;
+	margin-top: 2.5%;
+}
+
+.studentVidWhite{
+	margin-top: 6.81%;
+	width: 200px;
+	position: absolute;
+	color: white;
+	left: 28.15%;
+	font-size: 1.8vw;
+}
+
+.studentVidBlack{
+	margin-top: 6.81%;
+	width: 200px;
+	position: absolute;
+	color: black;
+	left: 28.15%;
+	font-size: 1.8vw;
+}
+
+.textWhite{
+	position: relative;
+	margin-top: 1%;
+	left: 28.15%;
+	color: white;
+	font-size: 1.3vw;
+	width: 44%;
+}
+
+.textBlack{
+	position: relative;
+	margin-top: 1%;
+	left: 28.15%;
+	color: black;
+	font-size: 1.3vw;
+	width: 44%;
 }
