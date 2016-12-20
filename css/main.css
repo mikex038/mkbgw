@@ -70,7 +70,7 @@ p{
 	float: left;
 	position: absolute;
 	margin-top: 4%;
-	margin-left: -3.9%;
+	margin-left: 7%;
 	width: 78.8%;
 	z-index: 2;
 }
@@ -182,7 +182,6 @@ p{
 }
 
 .hex2{
-	position: absolute;
 	height: auto;
 	width: 19%;
 	margin-left: -40%;
@@ -196,21 +195,15 @@ p{
 	width: 19%;
 	margin-left: 88%;
 	margin-top: 17.5%;
+	opacity: 0.1;
 }
 
 .hex4{
-	position: absolute;
 	width: 35%;
 	height: auto;
 	margin-left: -46%;
 	margin-top: -11%;
-}
-
-#view {
-	position: absolute;
-	background-color: pink;
-	margin-left: 28.15%;
-	margin-top: 2.5%;
+	opacity: 0.1;
 }
 
 .studentVidWhite{
