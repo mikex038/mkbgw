@@ -9,10 +9,15 @@ section{
 }
 
 p{
-	font-family: Arial;
+	font-family: DinPro;
 }
 
 .DINcondensed { /*DIN-condensed font */ }
+
+@font-face {
+    font-family: DinPro;
+    src: url(DinPro.otf);
+}
 
 .frame{
 	width: 50%;
